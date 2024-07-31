@@ -3,7 +3,7 @@ var ans = inch / 12;
 console.log(ans);
 
 
-
+//function er use
 
 function intro(num){
 var ngg = num / 12;
